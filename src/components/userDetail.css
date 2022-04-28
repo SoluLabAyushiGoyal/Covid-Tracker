@@ -1,0 +1,17 @@
+.detailinput{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 5px;
+    /* background-color: #bfbfbf; */
+}
+
+.detailContainer{
+    border : 1px black;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 4%;
+    background-color: #d1bea8;
+    padding : 4%;
+    border-radius: 10px;
+}

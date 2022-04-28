@@ -1,0 +1,33 @@
+.formSection{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    width : 50%;
+}
+
+  label {
+    display:block;
+    margin-top: 4px;
+    position: relative; 
+    padding-left:30px;
+    cursor: pointer;
+  }
+ 
+  .inputArea{
+    display:block;
+    margin-bottom:4px;
+    position: relative; 
+    padding-left:30px; 
+  }
+  
+  .QA{
+      background-color: #d3d3d3;
+      border-radius: 10px;
+      border: 1px solid gray;
+      margin-bottom: 5px;
+  }
+  
+  .formBtn{
+    margin-left : 50%;
+    margin-right : 50%;
+  }

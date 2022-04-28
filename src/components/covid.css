@@ -1,0 +1,162 @@
+.covidSection{
+    padding: 20px;
+    text-align : center;
+    min-height: 100vh;
+    align-items: center;
+}
+.covidHeading{
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 0 0 3px;
+}
+button{
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+span{
+    padding-right: 10px;
+}
+.card__main{
+    height : 150px;
+    width : 400px;
+    margin : 25px;
+    align-items: center;
+    background-color: rgb(0,0,128);
+    box-shadow: 20px 20px 50px gray;
+}
+.card__name{
+    font-size: 25px;
+    font-weight: bold;
+}
+.card__name span{
+    font-size: 15px;
+}
+.card__total{
+    font-size: 40px;
+    font-weight: bold;
+}
+.card__main:hover{
+    height : 180px;
+    width : 420px;
+    margin : 30px;
+}
+.float{
+    float:left;
+}
+
+.floatStyle{
+margin-left: 40%;
+margin-right: 40%;
+}
+
+/* li{
+
+    float : left;
+} */
+
+
+
+
+
+/* .mainbody{
+    background-color : rgb(68,66,66);
+    padding: 20px;
+    text-align : center;
+    min-height: 100vh;
+    align-items: center;
+}
+
+h1,h2{
+    color: black;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 0 0 3px;
+}
+
+button{
+    background-color: blueviolet;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+.float{
+    float:left;
+}
+
+.floatStyle{
+margin-left: 40%;
+margin-right: 40%;
+}
+
+span{
+    padding-right: 10px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card__main{
+    height : 150px;
+    width : 400px;
+    margin : 25px;
+    align-items: center;
+    background-color: rgb(0,0,128);
+    box-shadow: 20px 20px 50px gray;
+}
+
+.card__main:hover{
+    height : 180px;
+    width : 420px;
+    margin : 30px;
+}
+
+.card__name{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card__name span{
+    font-size: 15px;
+}
+
+.card__total{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+li{
+    float:left;
+} */
